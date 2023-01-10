@@ -5,7 +5,8 @@
 }
 
 :root {
-
+    /* --index: calc(1vw + 1vh);
+    --transition: 1.25s ease-out; */
 }
 
 html, body {
@@ -20,6 +21,10 @@ html, body {
 }
 
 .slider {
+
+}
+
+.slider__item {
    width: 20vw; 
 }
 
